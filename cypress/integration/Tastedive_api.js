@@ -1,5 +1,5 @@
 describe('Test de l\'api tastedive', () => {
-    let query = require('../fixtures/tastediveData');
+    let query = require('../fixtures/tastediveData')
 
     it('Calls the API', () => {
         cy.TasteDive(query)

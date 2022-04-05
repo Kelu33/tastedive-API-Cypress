@@ -1,3 +1,8 @@
+.idea
+cypress/videos
+cypress/support/index.js
+cypress/screenshots
+cypress/plugins
 node_modules
 cypress.json
 jsconfig.json
